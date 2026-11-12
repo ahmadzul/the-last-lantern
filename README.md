@@ -2,6 +2,10 @@
 
 A small, atmospheric browser escape room set in Blackthorn House. Find useful objects, follow the clues, solve a four-digit lock, light the cellar candle, and reach the back door before the five-minute timer runs out.
 
+## Play online
+
+[Open The Last Lantern demo](https://ahmadzul.github.io/the-last-lantern/).
+
 ## Play locally
 
 Open `index.html` in a modern browser. There is no install, build step, account, or network connection required. Game progress is saved in that browser's local storage; choose **Start over** to clear the saved game.
@@ -21,7 +25,7 @@ Reported checks during development included 64 Node.js checks and 20 Chromium ch
 
 ## Project status
 
-This is a local browser prototype published as source in this public repository. No deployed demo, uploaded video, or hackathon submission is included.
+This repository contains the public browser demo source. No demo video or hackathon submission is included.
 
 ## License
 
